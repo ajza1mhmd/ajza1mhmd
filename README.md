@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajza1mhmd
-- 🌱 Currently learning: Python Django
+- 🌱 Currently learning: Laravel 12x
 - 💼 Working on: PHP Laraval Projects
 - 🧠 Interests: Designing/Developing
 - 💞️ I’m looking to collaborate on creative design projects and innovative development solutions.
