@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ajza1mhmd
-- 🌱 Currently learning: Laravel 12x
-- 💼 Working on: PHP Laraval Projects
+- 💼 Working on: Dotnet-C# Projects
 - 🧠 Interests: Designing/Developing
 - 💞️ I’m looking to collaborate on creative design projects and innovative development solutions.
 - ⚡ Fun fact:  I write clean code... but my desk is another story! 
