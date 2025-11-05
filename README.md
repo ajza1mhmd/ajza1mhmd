@@ -1,10 +1,10 @@
 <!-- Stylish GitHub Profile README for @ajza1mhmd -->
 
-<h1 align="center">👋 Hi, I'm <a href="https://github.com/ajza1mhmd">Ajsal Mohammed</a></h1>
-<h3 align="center">💼 Working on: .NET & C# Projects | 🧠 Passionate about Designing & Developing</h3>
+<h4 align="center">👋 Hyy, I'm <a href="https://github.com/ajza1mhmd">Mohammed Ajsal</a></h4>
+<h6 align="center">💼 Working on: .NET & C# Projects | 🧠 Passionate about Designing & Developing</h6>
 
----
 
+<!--
 ## 🧰 Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -30,13 +30,14 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+-->
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajza1mhmd&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
----
 
-## 🌐 Connect With Me
+
+<h6 align="center">Connect With Me</h6>
 <p align="center">
   <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ajza1mhmd" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -45,4 +46,3 @@
 
 ---
 
-⭐ **_Thanks for visiting my profile!_**
